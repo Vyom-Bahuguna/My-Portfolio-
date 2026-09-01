@@ -3,6 +3,8 @@
 > **Founder · Product Builder · AI/ML Enthusiast**  
 > *"I see problems, and I build solutions."*
 
+🌐 **Live Website**: [https://my-portfolio-9422e.web.app](https://my-portfolio-9422e.web.app)
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
